@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39076301480",
+    "project_id": "allinone-c4681",
+    "storage_bucket": "allinone-c4681.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39076301480:android:ebe392a6d68c974b73109d",
+        "android_client_info": {
+          "package_name": "com.drm.allinone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQZRf1vGNXR6EMUFrDhI7s6prmmC4Fv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39076301480:android:106cacf973701db273109d",
+        "android_client_info": {
+          "package_name": "com.drm.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQZRf1vGNXR6EMUFrDhI7s6prmmC4Fv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
